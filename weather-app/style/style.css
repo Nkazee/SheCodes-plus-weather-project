@@ -47,6 +47,10 @@ h1 {
   font-weight: bold;
 }
 
+.links {
+  font-family: cursive;
+  font-size: 13px;
+}
 .search-engine {
   text-align: center;
   display: block;
