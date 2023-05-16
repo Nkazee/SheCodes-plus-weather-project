@@ -1,0 +1,64 @@
+body {
+  background-color: #e6f0de;
+}
+.col-2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  margin: 0 auto;
+  display: list-item;
+  appearance: auto;
+  padding: 13px;
+}
+.col-2:hover {
+  background-color: #9de5ff;
+  max-width: 400px;
+  border: 1px solid #fffbef;
+  border-radius: 15px;
+  line-height: 22px;
+  box-shadow: 10px 5px rgba(0, 0, 0, 0);
+  padding: 15px 0;
+}
+.current-day {
+  text-align: center;
+  display: block;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 24px;
+  line-height: 18px;
+}
+
+.day {
+  text-align: center;
+  display: block;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.enter-button:hover {
+  color: #364345;
+  background-color: #fff;
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+
+h1 {
+  line-height: 16px;
+}
+
+.high {
+  font-weight: bold;
+}
+
+.search-engine {
+  text-align: center;
+  display: block;
+  line-height: 18px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+p {
+  display: block;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  line-height: 18px;
+}
